@@ -1,0 +1,34 @@
+Lista de exercícios - Algoritmos
+
+Questão 1.
+Peça um número e valide se este número é divisível por 5.
+
+Questão 2.
+Receba uma lista de itens, e calcule o tamanho desta lista.
+
+Questão 3.
+Coloque, num algoritmo, um processo de chamada em sala de aula.
+
+Questão 4.
+Calcule a idade de uma pessoa de acordo com a data de nascimento dela. Você deve solicitar
+dia, mês e ano.
+
+Questão 5.
+De uma lista de dez números desordenados, encontre e mostre o maior.
+
+Questão 6..
+Coloque, num algoritmo, um processo de decisão de atendimento numa lanchonete de
+fast-food.
+
+Questão 7.
+De uma lista de dez números inteiros desordenados, encontre e mostre o maior e o menor.
+
+Questão 8.
+Ordene uma lista de 10 palavras recebidas pela pessoa, as palavras serão digitadas uma por vez.
+
+Questão 9.
+Coloque, num algoritmo, o processo de funcionamento de votação, desde a entrada do eleitor na
+sala de votação até a saída.
+
+Questão 10.
+Ordene uma lista de números com tamanho indefinido.
